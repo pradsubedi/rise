@@ -1,4 +1,4 @@
-# DataSpaces 2.0
+# DataSpaces 2.0 with ML based Draining
 
 This package contains the source code and test applications for
 DataSpaces run-time library, which is a flexible interaction and
